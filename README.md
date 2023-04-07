@@ -9,7 +9,7 @@ Web developer
 * 🚀  I'm currently working on [unnmarketplace](http://unnmarketplace.live)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on interesting project for backend development (PHP)and management.
-* ⚡  I love bring my ideas to live with my skills
+* ⚡  I love to bring my ideas to life with my skills
 
 <a href="https://www.github.com/irehh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/irehh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
