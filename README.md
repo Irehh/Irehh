@@ -6,9 +6,9 @@ Web developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [irechukwuchukwuka@gmail.com](mailto:irechukwuchukwuka@gmail.com)
-* 🚀  I'm currently working on [unnmarketplace](http://unnmarketplace.live)
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on interesting project for backend development (PHP)and management.
+* 🚀  I'm currently working on [unnmarketplace](http://unnmarketplace.live) currently having funding issues.
+* 🧠  I'm a Laravel developer
+* 🤝  I'm open to collaborating on interesting project for backend development (PHP) and management.
 * ⚡  I love to bring my ideas to life with my skills
 
 <a href="https://www.github.com/irehh" target="_blank" rel="noreferrer"><img
