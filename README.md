@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm 
 * ✉️  You can contact me at [irechukwuchukwuka@gmail.com](mailto:irechukwuchukwuka@gmail.com)
-* 🚀  I'm currently working on [unnmarketplace](http://unnmarketplace.live) currently having funding issues.
+* 🚀  I'm currently working on [mysource](http://mysource.ng) currently having funding issues.
 * 🧠  I'm a Laravel developer
-* 🤝  I'm open to collaborating on interesting project for backend development (PHP) and management.
+* 🤝  I'm open to collaborating on interesting projects for backend Engineering (Node | Express | Laravel | Javascript | PHP) and management.
 * ⚡  I love to bring my ideas to life with my skills
 
 <a href="https://www.github.com/irehh" target="_blank" rel="noreferrer"><img
